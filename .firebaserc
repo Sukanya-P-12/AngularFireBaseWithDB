@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angularfirebasewithdb": {
+      "hosting": {
+        "AngularFireBaseWithDB": [
+          "angularfirebasewithdb"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angularfirebasewithdb"
+  }
+}
